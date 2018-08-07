@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </div>
-            <p>Please wait...</p>
+            <p>Please wait.....</p>
         </div>
     </div>
     <div class="overlay"></div>
