@@ -69,8 +69,16 @@
                 text-transform: uppercase;
             }
 
+            .chs-logo img {
+                width: 150px;
+            }
+
             .m-b-md {
                 margin-bottom: 30px;
+            }
+
+            .title-desc {
+                color:white;
             }
         </style>
     </head>
@@ -92,6 +100,7 @@
                 <div class="title m-b-md">
                     Corinthians High School
                 </div>
+                <div class="title-desc">Monitoring System</div>
             </div>
         </div>
     </body>

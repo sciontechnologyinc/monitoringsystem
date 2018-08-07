@@ -23,6 +23,10 @@ Route::get('/listofteachers',function(){
     return view('admin.pages.listofteachers');
 });
 
+Route::get('user',function(){
+    return view('user.pages.home');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
