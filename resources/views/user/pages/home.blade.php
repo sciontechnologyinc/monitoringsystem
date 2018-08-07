@@ -7,9 +7,8 @@
 <div class="header">
     <div class="chs-logo-header"><img src="/images/chslogo.png" alt=""></div> 
     
-    <a href="" class="home-header">Home</a>
-    <a href="" class="missionvision-header">Mission/Vision</a>
-    <a href="" class="fetcher-header">Fetcher</a>
+    
+    <a href="" class="fetcher-header">Monitoring System</a>
 </div>
 </header>
 
