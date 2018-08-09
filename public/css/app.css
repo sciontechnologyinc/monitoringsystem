@@ -2823,15 +2823,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+    color: #fff;
+    background-color: #cfaa3b;
+    border-color: #cfaa3b;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #b89735;
+  border-color: #b89735;
 }
 
 .btn-primary:focus,
@@ -3464,12 +3464,12 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #007bff;
+  color: #cfaa3b;
   background-color: transparent;
 }
 
 .btn-link:hover {
-  color: #0056b3;
+  color: #b89735;
   text-decoration: underline;
   background-color: transparent;
   border-color: transparent;
@@ -10477,3 +10477,17 @@ a.text-dark:focus {
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+a.navbar-brand {
+  display: none;
+}
+
+.card-header {
+  text-align: center;
+  background: #a63821;
+  color: white;
+  font-weight: bold;
+}
+
+.card-body {
+    border: 1px solid rgba(207, 170, 59, 1);
+}
